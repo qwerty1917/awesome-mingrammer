@@ -11,6 +11,11 @@ Profile
 - Name: 권민재 (Ming Kwon)
 - Nickname: mingrammer (ming + programmer)
 
+Presentation
+---
+
+- [머신러닝을 위한 기초 수학 살펴보기](https://www.pycon.kr/2017/program/176) at Pycon Korea 2017
+
 His popular projects
 ---
 
@@ -33,6 +38,7 @@ His social address
 - [Twitter](https://twitter.com/@mingrammer)
 - [Medium](https://medium.com/@mingrammer)
 - [SlideShare](https://www.slideshare.net/kwonminjae9)
+- Mail: k239507@gmail.com
 
 His exclusive it-item
 ---
