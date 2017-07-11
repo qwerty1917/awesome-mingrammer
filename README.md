@@ -29,7 +29,3 @@ His social address
 - [Facebook](https://www.facebook.com/mingrammer)
 - [LinkedIn](https://www.linkedin.com/in/mingrammer)
 - [RankedIn](http://rankedin.kr/user/mingrammer)
-- [Instagram](https://www.instagram.com/mingrammer/)
-- [Twitter](https://twitter.com/@mingrammer)
-- [Medium](https://medium.com/@mingrammer)
-- [SlideShare](https://www.slideshare.net/kwonminjae9)
