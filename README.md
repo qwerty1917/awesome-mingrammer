@@ -34,3 +34,4 @@ His social address
 - [Facebook](https://www.facebook.com/mingrammer)
 - [LinkedIn](https://www.linkedin.com/in/mingrammer)
 - [RankedIn](http://rankedin.kr/user/mingrammer)
+- Mail: k239507@gmail.com
